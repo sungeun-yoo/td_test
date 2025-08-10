@@ -1,0 +1,41 @@
+[
+  {
+    "wave": 1,
+    "enemies": [
+      {
+        "type": "normal",
+        "count": 10
+      }
+    ]
+  },
+  {
+    "wave": 2,
+    "enemies": [
+      {
+        "type": "normal",
+        "count": 15
+      },
+      {
+        "type": "fast",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "wave": 3,
+    "enemies": [
+      {
+        "type": "normal",
+        "count": 20
+      },
+      {
+        "type": "fast",
+        "count": 10
+      },
+      {
+        "type": "tank",
+        "count": 2
+      }
+    ]
+  }
+]
